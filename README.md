@@ -67,6 +67,7 @@ Apksigner [https://developer.android.com/studio/command-line/apksigner](https://
 ## Google Play
 
 Google play console https://developer.android.com/distribute/console/
+Support [https://support.google.com/googleplay/android-developer/?hl=en#topic=3450769](https://support.google.com/googleplay/android-developer/?hl=en#topic=3450769)
 
 ## CodeLabs
 
