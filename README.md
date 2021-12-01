@@ -79,3 +79,8 @@ WorkManager [https://github.com/googlecodelabs/android-workmanager](https://gith
 Shimmer [https://facebook.github.io/shimmer-android/](https://facebook.github.io/shimmer-android/)
 
 
+## Events
+
+Android Dev Summit [https://developer.android.com/events/dev-summit](https://developer.android.com/events/dev-summit)
+
+
