@@ -21,6 +21,8 @@ Material components repository [https://github.com/material-components/material-
 
 ViewPager [https://developer.android.com/training/animation/screen-slide](https://developer.android.com/training/animation/screen-slide)
 
+Spinner [https://developer.android.com/guide/topics/ui/controls/spinner](https://developer.android.com/guide/topics/ui/controls/spinner)
+
 ## Background process
 
 Codelab Receive location updates in Android 10 with Kotlin [https://developer.android.com/codelabs/while-in-use-location#0](https://developer.android.com/codelabs/while-in-use-location#0)
@@ -56,5 +58,13 @@ Proguard [https://github.com/Guardsquare/proguard](https://github.com/Guardsquar
 ## Command Line Tools
 
 Apksigner [https://developer.android.com/studio/command-line/apksigner](https://developer.android.com/studio/command-line/apksigner)
+
+## Google Play
+
+Google play console https://developer.android.com/distribute/console/
+
+## Libraries
+
+Shimmer [https://facebook.github.io/shimmer-android/](https://facebook.github.io/shimmer-android/)
 
 
