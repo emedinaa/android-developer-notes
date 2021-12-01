@@ -27,6 +27,10 @@ Coroutines on Android Part II [https://medium.com/androiddevelopers/coroutines-o
 
 Coroutines on Android Part III [https://medium.com/androiddevelopers/coroutines-on-android-part-iii-real-work-2ba8a2ec2f45](https://medium.com/androiddevelopers/coroutines-on-android-part-iii-real-work-2ba8a2ec2f45)
 
+## Storage
+
+Fileprovider [https://developer.android.com/reference/androidx/core/content/FileProvider](https://developer.android.com/reference/androidx/core/content/FileProvider)
+
 ## Security
 
 Proguard [https://github.com/Guardsquare/proguard](https://github.com/Guardsquare/proguard)
