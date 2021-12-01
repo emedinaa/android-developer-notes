@@ -80,6 +80,10 @@ Gooogle Codelabs [https://github.com/googlecodelabs/](https://github.com/googlec
 
 WorkManager [https://github.com/googlecodelabs/android-workmanager](https://github.com/googlecodelabs/android-workmanager)
 
+## Firebase
+
+Firebase Android [https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup)
+
 ## Libraries
 
 Shimmer [https://facebook.github.io/shimmer-android/](https://facebook.github.io/shimmer-android/)
