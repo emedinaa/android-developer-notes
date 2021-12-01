@@ -83,4 +83,4 @@ Shimmer [https://facebook.github.io/shimmer-android/](https://facebook.github.io
 
 Android Dev Summit [https://developer.android.com/events/dev-summit](https://developer.android.com/events/dev-summit)
 
-
+DroidCon [https://www.droidcon.com/content/](https://www.droidcon.com/content/)
