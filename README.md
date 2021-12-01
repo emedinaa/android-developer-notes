@@ -19,6 +19,7 @@ Material Components [https://material.io/components/](https://material.io/compon
 
 Material components repository [https://github.com/material-components/material-components-android](https://github.com/material-components/material-components-android)
 
+ViewPager [https://developer.android.com/training/animation/screen-slide](https://developer.android.com/training/animation/screen-slide)
 
 ## Background process
 
@@ -51,4 +52,9 @@ Building web apps in WebView [https://developer.android.com/guide/webapps/webvie
 ## Security
 
 Proguard [https://github.com/Guardsquare/proguard](https://github.com/Guardsquare/proguard)
+
+## Command Line Tools
+
+Apksigner [https://developer.android.com/studio/command-line/apksigner](https://developer.android.com/studio/command-line/apksigner)
+
 
