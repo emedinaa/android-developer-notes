@@ -9,6 +9,10 @@ Kotlin docs [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/
 
 Kotlin 2021 Premier [https://pages.jetbrains.com/kotlin-premier-event-2021/](https://pages.jetbrains.com/kotlin-premier-event-2021/)
 
+Kotlin 1.6.0 h[ttps://blog.jetbrains.com/kotlin/2021/11/kotlin-1-6-0-is-released/](https://blog.jetbrains.com/kotlin/2021/11/kotlin-1-6-0-is-released/)
+
+Kover [https://github.com/Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover)
+
 ## Layouts
 
 Layouts [https://developer.android.com/guide/topics/ui/declaring-layout](https://developer.android.com/guide/topics/ui/declaring-layout)
@@ -67,6 +71,7 @@ Apksigner [https://developer.android.com/studio/command-line/apksigner](https://
 ## Google Play
 
 Google play console https://developer.android.com/distribute/console/
+
 Support [https://support.google.com/googleplay/android-developer/?hl=en#topic=3450769](https://support.google.com/googleplay/android-developer/?hl=en#topic=3450769)
 
 ## CodeLabs
