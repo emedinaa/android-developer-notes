@@ -9,6 +9,10 @@ Kotlin docs [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/
 
 Kotlin 2021 Premier [https://pages.jetbrains.com/kotlin-premier-event-2021/](https://pages.jetbrains.com/kotlin-premier-event-2021/)
 
+## Layouts
+
+Layouts [https://developer.android.com/guide/topics/ui/declaring-layout](https://developer.android.com/guide/topics/ui/declaring-layout)
+
 ## Material Design
 
 Material Components [https://material.io/components/](https://material.io/components/)
