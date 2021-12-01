@@ -31,6 +31,11 @@ Coroutines on Android Part III [https://medium.com/androiddevelopers/coroutines-
 
 Fileprovider [https://developer.android.com/reference/androidx/core/content/FileProvider](https://developer.android.com/reference/androidx/core/content/FileProvider)
 
+
+## WebView
+
+Building web apps in WebView [https://developer.android.com/guide/webapps/webview](https://developer.android.com/guide/webapps/webview)
+
 ## Security
 
 Proguard [https://github.com/Guardsquare/proguard](https://github.com/Guardsquare/proguard)
