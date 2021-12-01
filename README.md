@@ -1,6 +1,14 @@
 # android-developer-notes
 Android developer notes
 
+## Kotkin
+
+Kotlin [https://kotlinlang.org/](https://kotlinlang.org/)
+
+Kotlin docs [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
+
+Kotlin 2021 Premier [https://pages.jetbrains.com/kotlin-premier-event-2021/](https://pages.jetbrains.com/kotlin-premier-event-2021/)
+
 ## Material Design
 
 Material Components [https://material.io/components/](https://material.io/components/)
