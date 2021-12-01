@@ -1,7 +1,7 @@
 # android-developer-notes
 Android developer notes
 
-## Kotkin
+## Kotlin
 
 Kotlin [https://kotlinlang.org/](https://kotlinlang.org/)
 
@@ -22,6 +22,11 @@ Material components repository [https://github.com/material-components/material-
 ViewPager [https://developer.android.com/training/animation/screen-slide](https://developer.android.com/training/animation/screen-slide)
 
 Spinner [https://developer.android.com/guide/topics/ui/controls/spinner](https://developer.android.com/guide/topics/ui/controls/spinner)
+
+
+## Fragments
+
+Fragments [https://developer.android.com/guide/fragments](https://developer.android.com/guide/fragments)
 
 ## Background process
 
