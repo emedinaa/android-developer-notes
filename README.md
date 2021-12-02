@@ -55,7 +55,6 @@ Coroutines on Android Part III [https://medium.com/androiddevelopers/coroutines-
 
 Fileprovider [https://developer.android.com/reference/androidx/core/content/FileProvider](https://developer.android.com/reference/androidx/core/content/FileProvider)
 
-
 ## WebView
 
 Building web apps in WebView [https://developer.android.com/guide/webapps/webview](https://developer.android.com/guide/webapps/webview)
@@ -67,6 +66,10 @@ Proguard [https://github.com/Guardsquare/proguard](https://github.com/Guardsquar
 ## Command Line Tools
 
 Apksigner [https://developer.android.com/studio/command-line/apksigner](https://developer.android.com/studio/command-line/apksigner)
+
+## Performance
+
+Android Developers #PERFMATTERS https://www.youtube.com/watch?v=qk5F6Bxqhr4&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
 
 ## Google Play
 
