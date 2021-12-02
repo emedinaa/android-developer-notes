@@ -13,6 +13,8 @@ Kotlin 1.6.0 h[ttps://blog.jetbrains.com/kotlin/2021/11/kotlin-1-6-0-is-released
 
 Kover [https://github.com/Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover)
 
+Null Safety [https://kotlinlang.org/docs/null-safety.html](https://kotlinlang.org/docs/null-safety.html)
+
 ## Layouts
 
 Layouts [https://developer.android.com/guide/topics/ui/declaring-layout](https://developer.android.com/guide/topics/ui/declaring-layout)
