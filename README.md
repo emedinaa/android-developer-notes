@@ -57,6 +57,8 @@ Coroutines on Android Part III [https://medium.com/androiddevelopers/coroutines-
 
 Fileprovider [https://developer.android.com/reference/androidx/core/content/FileProvider](https://developer.android.com/reference/androidx/core/content/FileProvider)
 
+Room [https://developer.android.com/training/data-storage/room/migrating-db-versions](https://developer.android.com/training/data-storage/room/migrating-db-versions)
+
 ## WebView
 
 Building web apps in WebView [https://developer.android.com/guide/webapps/webview](https://developer.android.com/guide/webapps/webview)
@@ -88,6 +90,12 @@ WorkManager [https://github.com/googlecodelabs/android-workmanager](https://gith
 ## Firebase
 
 Firebase Android [https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup)
+
+## NDK 
+
+Android NDK [https://developer.android.com/ndk/](https://developer.android.com/ndk/)
+
+Android NDK samples [https://developer.android.com/ndk/samples](https://developer.android.com/ndk/samples)
 
 ## Libraries
 
